@@ -33,9 +33,9 @@ int main()
 	char v2[dim];
 	char res;
 
-	cout << "Introdeuix la priemra cadena: ";
+	cout << "Introdueix la priemra cadena: ";
 	cin >> v1;
-	cout << "Introdeuix la segona cadena: ";
+	cout << "Introdueix la segona cadena: ";
 	cin >> v2;
 
 	res = PrimerDiferent(v1, v2);
