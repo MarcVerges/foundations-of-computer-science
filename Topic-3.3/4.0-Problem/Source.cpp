@@ -17,9 +17,9 @@ typedef struct
 void LlegirPoligon(TPoligon &form1)
 {
 	int i;
-	cout << "Introdeuix el numero de vertexs: ";
+	cout << "Introdueix el numero de vertexs: ";
 	cin >> form1.costats;
-	cout << "Introdeuix les coredenades dels vertexs: ";
+	cout << "Introdueix les coredenades dels vertexs: ";
 	for (i = 0; i < form1.costats; i++)
 	{
 		cin >> form1.vertex[i].x >> form1.vertex[i].y;
