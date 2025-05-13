@@ -1,0 +1,1 @@
+bool TrobarCaracter(char v1[], char lletra);
