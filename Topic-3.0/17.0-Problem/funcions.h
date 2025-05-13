@@ -1,0 +1,1 @@
+bool OrdenatDecreixent(int v1[], int dim);
