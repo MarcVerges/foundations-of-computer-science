@@ -14,7 +14,7 @@ int main()
 	{
 		for (c = 0; c < n_col; c++)
 		{
-			cout << "Introdeuix la matriu: [" << f << "][" << c << "]";
+			cout << "Introdueix la matriu: [" << f << "][" << c << "]";
 			cin >> v1[f][c];
 		}
 	}
