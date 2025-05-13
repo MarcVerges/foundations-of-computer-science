@@ -45,11 +45,11 @@ void OmplirDadesEquip(TEquip equips[],int pos)
 {
 	cout << "Introdueix el nom: ";
 	cin >> equips[pos].nom;
-	cout << "Introdeuix la ciutat: ";
+	cout << "Introdueix la ciutat: ";
 	cin >> equips[pos].ciutat;
-	cout << "Introdeuix els punts: ";
+	cout << "Introdueix els punts: ";
 	cin >> equips[pos].punts;
-	cout << "Introdeuix el pressupost: ";
+	cout << "Introdueix el pressupost: ";
 	cin >> equips[pos].pressupost;
 
 }
