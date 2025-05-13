@@ -21,7 +21,7 @@ int main()
 
 	do
 	{
-		cout << "Introdeuix el terme de la serie de fibonacci que vols calcular: ";
+		cout << "Introdueix el terme de la serie de fibonacci que vols calcular: ";
 		cin >> terme;
 
 		if (terme < 0)
