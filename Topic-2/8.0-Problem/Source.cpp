@@ -16,7 +16,7 @@ float divisio(float divid_1, float divis_1)
 int main()
 {
 	int divid,divis, res;
-	cout << "Introdeuix el divident i el divisor: ";
+	cout << "Introdueix el divident i el divisor: ";
 	cin >> divid >> divis;
 
 	res = divisio(divid, divis);
