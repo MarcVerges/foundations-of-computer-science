@@ -12,7 +12,7 @@ void LlegirMatriu(int v1[][n_col], int N_FIL, int N_COL)
 	{
 		for (c = 0; c < N_COL; c++)
 		{
-			cout << "Introdeuix el valor de la posocio M [" << f << "][" << c << "] = ";
+			cout << "Introdueix el valor de la posocio M [" << f << "][" << c << "] = ";
 			cin >> v1[f][c];
 		}
 	}
