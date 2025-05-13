@@ -3,7 +3,7 @@
 using namespace std;
 
 
-void alerta(int sec) //exemple de porcediment (ja que no retorna cap valor important dins de la sortida int)
+void alerta(int sec) //exemple de procediment (ja que no retorna cap valor important dins de la sortida int)
 {
 	cout << "Alerta: ";
 	if (sec != 0)
