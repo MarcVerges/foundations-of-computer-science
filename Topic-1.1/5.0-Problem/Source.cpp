@@ -6,7 +6,7 @@ int main()
 	int b;
 	float c;
 
-	cout << "Introdueix el salir base i els anys d'antiguitat: ";
+	cout << "Introdueix el salari base i els anys d'antiguitat: ";
 	cin >> a >> b;
 
 	if (b < 3)
