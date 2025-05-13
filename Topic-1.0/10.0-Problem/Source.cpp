@@ -7,7 +7,7 @@ int main()
 	cout << "introduiex un nombre del 0 al 200: ";
 	cin >> a;
 
-	cout << "el nombr erepresenta la lletr: " << char(a) << " , " << char(a + 1) << " , " << char(a + 10);
+	cout << "el nombre expresenta la lletr: " << char(a) << " , " << char(a + 1) << " , " << char(a + 10);
 
 
 }
