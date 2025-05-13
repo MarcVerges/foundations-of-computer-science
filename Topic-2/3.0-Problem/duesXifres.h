@@ -1,0 +1,1 @@
+void duesXifres(int temps);

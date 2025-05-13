@@ -1,0 +1,1 @@
+void direcio(int& x_1, int& y_1, int dir_1, int x_min1, int x_max1, int y_min1, int y_max1);
