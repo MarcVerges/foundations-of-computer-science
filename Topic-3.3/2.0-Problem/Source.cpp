@@ -15,7 +15,7 @@ int main()
 	TLlibre llibre1;
 	TLlibre llibre2;
 
-	cout << "Introdeuix les dades del primer llibre: " << endl;
+	cout << "Introdueix les dades del primer llibre: " << endl;
 	cout << "Titol: ";
 	cin >> llibre1.titol;
 	cout << "Editorial: ";
@@ -25,7 +25,7 @@ int main()
 	cout << "Preu: ";
 	cin >> llibre1.preu;
 	cout << endl;
-	cout << "Introdeuix les dades del segon llibre: " << endl;
+	cout << "Introdueix les dades del segon llibre: " << endl;
 	cout << "Titol: ";
 	cin >> llibre2.titol;
 	cout << "Editorial: ";
