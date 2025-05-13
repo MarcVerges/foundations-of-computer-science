@@ -12,7 +12,7 @@ int main()
 {
 	int a,b;
 
-	cout << "Introduiex el nombr edel uqe vols saber les cententes: ";
+	cout << "Introduiex el nombre del que vols saber les centenes: ";
 	cin >> a;
 	b = centenes(a);
 	cout << "Les centenes del nombre " << a << "son " << b;
