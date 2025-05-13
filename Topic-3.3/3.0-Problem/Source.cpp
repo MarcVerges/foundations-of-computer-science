@@ -14,11 +14,11 @@ void OmplirDadesEquip(TEquip &equip)
 {
 	cout << "Introdueix el nom: ";
 	cin >> equip.nom;
-	cout << "Introdeuix la ciutat: ";
+	cout << "Introdueix la ciutat: ";
 	cin >> equip.ciutat;
-	cout << "Introdeuix els punts: ";
+	cout << "Introdueix els punts: ";
 	cin >> equip.punts;
-	cout << "Introdeuix el pressupost: ";
+	cout << "Introdueix el pressupost: ";
 	cin >> equip.pressupost;
 
 }
